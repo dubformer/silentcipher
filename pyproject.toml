@@ -1,6 +1,6 @@
 [project]
 name = "silentcipher"
-version = "1.0.5"
+version = "1.0.5+dubformer.1"
 authors = [
   { name="Mayank Kumar Singh", email="mayank.a.singh@sony.com" },
 ]
